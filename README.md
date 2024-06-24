@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://leverageedu.com/discover/wp-content/uploads/2023/03/Web-Developer.png)]()
 <h1 align="center">Hi 👋, I'm ABHAY PRATAP SINGH</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
