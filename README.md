@@ -1,10 +1,11 @@
-[![MasterHead](https://leverageedu.com/discover/wp-content/uploads/2023/03/Web-Developer.png)]()
+[![MasterHead](https://leverageedu.com/discover/wp-content/uploads/2023/03/Web-Developer.png){:height="100px" width="100px"}](https://leverageedu.com)
 <h1 align="center">Hi 👋, I'm ABHAY PRATAP SINGH</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+ 
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400px" align="right" alt="image">&nbsp;&nbsp;
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhaypratapsingh&label=Profile%20views&color=0e75b6&style=flat" alt="abhaypratapsingh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhaypratapsingh" alt="abhaypratapsingh" /></a> </p>
+
 
 - 🔭 I’m currently working on **SPOTIFY CLONE**
 
@@ -14,7 +15,11 @@
 
 - 💬 Ask me about **FRONTEND DEVELOPMENT**
 
-- 📫 How to reach me **abhaypt80225@gmail.com**
+- 📫 How to reach me **abhaypt80225@gmail.com**  <br><br>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhaypratapsingh&label=Profile%20views&color=0e75b6&style=flat" alt="abhaypratapsingh" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhaypratapsingh" alt="abhaypratapsingh" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
