@@ -1,4 +1,4 @@
-[![MasterHead](https://leverageedu.com/discover/wp-content/uploads/2023/03/Web-Developer.png){:height="100px" width="100px"}](https://leverageedu.com)
+[![MasterHead](https://leverageedu.com/discover/wp-content/uploads/2023/03/Web-Developer.png)](https://leverageedu.com)
 <h1 align="center">Hi 👋, I'm ABHAY PRATAP SINGH</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
  
